@@ -1,0 +1,21 @@
+discipline,player_id,player_name,p_opportunities,balanced_rank,balanced_score,no_vol_rank,no_vol_score,rank_shift_no_vol,model2_rank,model3_rank,in_top10_no_vol
+Batting,4708,Rinku Singh,253,1,86.4,4,85.68,3,1,2,True
+Batting,6396,Tim David,305,2,86.36,7,83.96,5,3,1,True
+Batting,20702,Tristan Stubbs,251,3,81.77,16,80.31,13,7,6,False
+Batting,37052,Naman Dhir,90,4,81.65,2,90.28,-2,4,3,True
+Batting,1077,David Miller,229,5,81.33,14,80.69,9,6,4,False
+Batting,813,Jos Buttler,55,6,80.49,1,93.76,-5,2,5,True
+Batting,7897,Namboori Tilak Varma,260,7,80.08,18,77.98,11,11,8,False
+Batting,7260,Dhruv Jurel,112,8,79.28,5,85.33,-3,5,7,True
+Batting,152,Ravindra Jadeja,207,9,78.75,17,78.65,8,12,12,False
+Batting,8,Mahendra Singh Dhoni,227,10,78.46,20,77.4,10,14,11,False
+Bowling,5979,Abrar Ahmed,141,1,86.42,1,90.72,0,1,1,True
+Bowling,1107,Mohammad Nabi,65,2,79.7,2,88.06,0,6,2,True
+Bowling,2490,Mohammad Nawaz,121,3,79.03,4,83.46,1,3,3,True
+Bowling,781,Sunil Narine,168,4,78.63,6,80.99,2,4,4,True
+Bowling,3644,Kuldeep Yadav,206,5,78.56,9,79.63,4,2,9,True
+Bowling,4926,Shadab Khan,113,6,77.61,5,82.31,-1,7,6,True
+Bowling,34485,Sufiyan Muqeem,130,7,76.51,7,80.22,0,5,5,True
+Bowling,6628,Gerald Coetzee,71,8,76.19,3,83.61,-5,8,8,True
+Bowling,2417,Akeal Hosein,116,9,75.86,8,80.2,-1,11,7,True
+Bowling,4722,Rashid Khan,405,10,74.65,22,71.83,12,10,12,False

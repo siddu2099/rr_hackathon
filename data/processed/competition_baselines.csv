@@ -1,0 +1,4 @@
+comp_category,total_deliveries,batter_balls,batter_runs,fours,sixes,legal_balls,bowler_runs,bowler_wickets,dots,league_bat_sr,league_boundary_pct,league_economy,league_bowl_sr,league_dot_pct
+IPL,87687,84135,123597,10958,6173,83755,128158,4203,29629,146.9,20.36,9.18,19.93,35.38
+T20I,106327,102405,137522,11711,6214,101960,142668,5702,38999,134.29,17.5,8.4,17.88,38.25
+T20_Emerging,6985,6745,8431,614,424,6730,8737,367,2679,125.0,15.39,7.79,18.34,39.81

@@ -1,0 +1,27 @@
+relative_path,role,file_size_bytes,sha256_hash,status
+data/raw/ball_by_ball.csv,"Primary raw delivery-level ball-by-ball event dataset (200,999 rows)",41071837,01e2b4379edfbab6a6e456d304cb3c70f554cb312ef93d9588f3f32a82cb396e,VERIFIED
+data/raw/matches.csv,Raw match schedule and match-level metadata (883 matches),123864,bb100ab84b8b9a15160c1f2315cf675210131a30e779ec5079fd5403dcf56eef,VERIFIED
+data/raw/competitions.csv,Raw competition registry and seasons (138 competitions),7624,507ceb7189f972d4e4f299ddcfc97f3c3247af1913f6291106f161fa8353fd9b,VERIFIED
+data/raw/playing_eleven.csv,Raw match lineups and playing eleven rosters,966287,7517c73722a28d5d61c808ccf0cbed315a8780586d02e946eb9a7f5daf011c27,VERIFIED
+data/raw/competition_team_player_mapping.csv,Raw squad rosters and team-player mapping,462969,1ded4e42a933618572d6e2c3a521c3257eb1844fab4456d567d77cbb2d3bbb12,VERIFIED
+data/raw/teams.csv,Raw team registry and metadata,6922,a65e5922a9b3bf49247b24fc9471782e700efb31f8dcc5042923238b87c50a5d,VERIFIED
+data/processed/deliveries_with_pressure.csv,Master delivery-level dataset with calculated continuous pressure P and match context,42730581,28bc24caf6f0d846af9e0b965480c224db496a349af63ac01415509af9e990b1,VERIFIED
+data/processed/batting_pressure_features.csv,Player-level batting pressure aggregations and features across all 724 batters,167750,bc608a30834dce7f8f69137f88fd96115f15ea6741e70ee5f97331bd4bbfbbce,VERIFIED
+data/processed/bowling_pressure_features.csv,Player-level bowling pressure aggregations and features across all 604 bowlers,113421,1121d5c4ac1ee539e7e24509735867aec6cf4b3b349c70a1aaef8420d168f474,VERIFIED
+data/processed/top10_batters.csv,Canonical final Top 10 Batters leaderboard and features,1304,8bc674b10032a315e36b5f40d7eec7e8dbf7ff6da3f1bf203b7e8e018d30027d,VERIFIED
+data/processed/top10_bowlers.csv,Canonical final Top 10 Bowlers leaderboard and features,1219,35ba67302f41829083bb509dec280a24b5d72f31699ec1def9485f48a02184bd,VERIFIED
+data/processed/batting_ranking_full.csv,Complete qualified batting ranking table (153 qualified batters),72587,f85c9d18ca6eb15552dd452d0b326367ce454decb0c60bbd149b11d06168f800,VERIFIED
+data/processed/bowling_ranking_full.csv,Complete qualified bowling ranking table (133 qualified bowlers),63521,cbc50de1402b1dadbb1964468f6204957c76b7de2a14111f657adfb271d7cf5e,VERIFIED
+src/match_state.py,"Match state tracking, lag engineering, and cricket legal/ball flags",7776,7b62bdc890451eabe0bf236ada4fb362e4a5cb1f34d0408522866a53beaf21e3,VERIFIED
+src/pressure_model.py,Continuous pressure equation implementation (1st & 2nd innings),5226,c6c780258a3ac6987d920ae27789d7379b83666388932a96e120aadf6267fee5,VERIFIED
+src/batting_features.py,Batting pressure feature aggregation and rate computation,5610,a3f7d47ec4003bcfa138dc2b31b14a1c582a517c6ef88e1b08205588e500ec6a,VERIFIED
+src/bowling_features.py,Bowling pressure feature aggregation and rate computation,6280,500df78a552aa7844b40d44afdcf68d28585e8310bd7833824b462a98454dabd,VERIFIED
+src/ranking_models.py,"Empirical Bayes shrinkage, normalization, and BPRI composite models",16127,beb5ab8e2d62467ee2eb26abd1cdf9ae9fbb808441d882a6ee3ccd5c5bd6fb65,VERIFIED
+src/baselines.py,Global prior and non-pressure baseline estimation,4527,1d79849613d620d3552e0a82fe70865c5c432aae5fcc1bc9a5912bbd1cc7dd56,VERIFIED
+src/pipeline.py,Master end-to-end data pipeline execution script,8081,29c0840d3b6c3e1e3d20184480ad6e7e7ca5dd5ce91c9d83b97511a8a014c423,VERIFIED
+phase4_5_audit/phase4_5_2_pressure_accounting.csv,Final verified extras and delivery reconciliation matrix,483,7b4fa1e7227a8ea6440a80be0d77657dacdd4e7bbcd0683551fe124cca93234b,VERIFIED
+phase4_5_audit/phase4_5_2_player_ball_reconciliation.csv,Player-level balls faced reconciliation across Top 10 and all 724 batters,939,fffb5199e6689a4c60ea6b998211febad5a793959e7848ad016d95b0a9494731,VERIFIED
+phase4_5_audit/phase4_5_2_ranking_impact.csv,Downstream ranking impact analysis proving 0.00% rank shift,3410,4fb2e8ff3171dfb6d12f92657ff5d7153941e3d1952a2aed4bf4796ed0e3d813,VERIFIED
+phase4_5_audit/phase4_5_2_final_gate_checklist.md,14-item signed verification checklist for Phase 4.5.2,3809,7daba21e1043bee03e7e3b34e5bc56a9ed50b6b93e4500bf403accb95943a588,VERIFIED
+phase4_final_validated_rankings.csv,Phase 4 frozen validated rankings,1696,cf58d09681c7bc8d4043081e135b7acb7d56113c72c7edd41eea2c17765c2140,VERIFIED
+phase4_sensitivity_results.csv,"Phase 4 threshold, weight, and volume sensitivity testing matrix",1461,049705064f99a375ea47b0a19a0568f1f033b07733eb41c20ade07f5a56dd2b6,VERIFIED

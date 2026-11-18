@@ -1,0 +1,21 @@
+rank,discipline,player_id,player_name,BPRI_Model1_Balanced,pressure_opportunities,p_matches,raw_rate,shrunk_rate,unbiased_clutch_delta,se,ci95_low,ci95_high
+1,Batting,4708,Rinku Singh,86.4,253,26,188.93,183.56,45.13,10.69,162.61,204.51
+2,Batting,6396,Tim David,86.36,305,36,191.8,187.02,18.84,9.73,167.95,206.09
+3,Batting,20702,Tristan Stubbs,81.77,251,25,176.1,172.0,34.1,10.73,150.97,193.03
+4,Batting,37052,Naman Dhir,81.65,90,12,203.33,187.11,41.21,17.92,151.99,222.23
+5,Batting,1077,David Miller,81.33,229,27,183.84,178.54,42.07,11.23,156.53,200.55
+6,Batting,813,Jos Buttler,80.49,55,6,214.55,187.7,60.33,22.92,142.78,232.62
+7,Batting,7897,Namboori Tilak Varma,80.08,260,30,171.54,168.02,31.85,10.54,147.36,188.68
+8,Batting,7260,Dhruv Jurel,79.28,112,16,185.71,175.61,40.08,16.06,144.13,207.09
+9,Batting,152,Ravindra Jadeja,78.75,207,28,161.35,158.28,33.52,11.82,135.11,181.45
+10,Batting,8,Mahendra Singh Dhoni,78.46,227,25,166.08,162.72,32.18,11.28,140.61,184.83
+1,Bowling,5979,Abrar Ahmed,86.42,141,17,3.83,4.7,3.35,0.75,3.23,6.17
+2,Bowling,1107,Mohammad Nabi,79.7,65,9,4.52,5.82,4.11,1.11,3.64,8.0
+3,Bowling,2490,Mohammad Nawaz,79.03,121,15,5.16,5.85,2.15,0.81,4.26,7.44
+4,Bowling,781,Sunil Narine,78.63,168,25,5.29,5.8,1.66,0.69,4.45,7.15
+5,Bowling,3644,Kuldeep Yadav,78.56,206,29,6.26,6.55,1.79,0.62,5.33,7.77
+6,Bowling,4926,Shadab Khan,77.61,113,16,5.47,6.13,2.66,0.84,4.48,7.78
+7,Bowling,34485,Sufiyan Muqeem,76.51,130,14,5.35,5.96,0.8,0.78,4.43,7.49
+8,Bowling,6628,Gerald Coetzee,76.19,71,10,6.0,6.75,3.29,1.06,4.67,8.83
+9,Bowling,2417,Akeal Hosein,75.86,116,19,5.79,6.36,1.89,0.83,4.73,7.99
+10,Bowling,4722,Rashid Khan,74.65,405,51,6.58,6.71,0.91,0.44,5.85,7.57

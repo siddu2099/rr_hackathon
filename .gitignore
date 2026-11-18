@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / Temporary directories
+scratch/
+*.log
+*.tmp
+.pytest_cache/
+.coverage
+
+# Raw Archive / Mac OS bundles
+6af458274c1e8_data_pack/
+__MACOSX/

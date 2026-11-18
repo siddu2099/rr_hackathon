@@ -1,0 +1,12 @@
+rank,player_id,player_name,total_pressure_records,pressure_wides_excluded,pressure_noballs_faced,pressure_byes_faced,pressure_legbyes_faced,pressure_normal_faced,reconstructed_balls_faced,pipeline_p_balls_faced,discrepancy,pressure_runs,pressure_sr
+1,4708,Rinku Singh,273,20,2,0,2,249,253,253,0,478,188.93
+2,6396,Tim David,327,22,3,1,3,298,305,305,0,585,191.8
+3,20702,Tristan Stubbs,257,6,2,0,3,246,251,251,0,442,176.1
+4,37052,Naman Dhir,94,4,1,0,1,88,90,90,0,183,203.33
+5,1077,David Miller,239,10,2,0,6,221,229,229,0,421,183.84
+6,813,Jos Buttler,59,4,0,0,0,55,55,55,0,118,214.55
+7,7897,Namboori Tilak Varma,282,22,2,1,1,256,260,260,0,446,171.54
+8,7260,Dhruv Jurel,121,9,0,1,0,111,112,112,0,208,185.71
+9,152,Ravindra Jadeja,217,10,1,1,3,202,207,207,0,334,161.35
+10,8,Mahendra Singh Dhoni,249,22,2,0,4,221,227,227,0,377,166.08
+ALL_724_BATTERS,ALL,Total Across All Batters,26735,1217,160,138,394,24826,25518,25518,0,33401,130.89

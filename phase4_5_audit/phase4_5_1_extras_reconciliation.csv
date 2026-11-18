@@ -1,0 +1,7 @@
+category,raw_bbb_column_value,phase1_reported,phase4_5_prose_mistake,exact_full_dataset_count,exact_pressure_count,exact_non_pressure_count,counts_as_bowler_legal,counts_as_batter_ball_faced,charged_to_bowler_runs,reconciliation_verdict
+Wides,wide,7714,5862,7714,1217,6497,False,False,True,"Phase 1 count (7,714) is 100% exact full dataset truth. Phase 4.5 figure (5,862) was a human transcription/memory error in prose report."
+No-balls,Overstep (576) + other (264),840,798,840,160,680,False,True,True,Phase 1 count (840) is 100% exact full dataset truth. Phase 4.5 figure (798) was a human transcription error in prose.
+Byes,byes,529,486,529,138,391,True,True,False,Phase 1 count (529) is 100% exact full dataset truth. Phase 4.5 figure (486) was a human transcription error in prose.
+Leg-byes,legbyes,2748,2398,2748,394,2354,True,True,False,"Phase 1 count (2,748) is 100% exact full dataset truth. Phase 4.5 figure (2,398) was a human transcription error in prose."
+Penalty,Penalty,1,Omitted,1,0,1,False,False,False,"Exact raw record: Match 31713, innings 1, over 19.5 (5 penalty runs)."
+No Extras (Regular Deliveries),NaN,189167,Not stated,189167,24826,164341,True,True,True,"Exact raw count: 189,167 deliveries. Total sum of all categories = 200,999 deliveries."

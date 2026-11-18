@@ -1,0 +1,9 @@
+delivery_category,full_dataset_count,pressure_subset_count,non_pressure_subset_count,is_bowler_legal,is_batter_ball,pressure_bowler_legal_balls,pressure_batter_balls_faced
+None,189167,24826,164341,True,True,24826,24826
+wide,7714,1217,6497,False,False,0,0
+legbyes,2748,394,2354,True,True,394,394
+byes,529,138,391,True,True,138,138
+Overstep,576,98,478,False,True,0,98
+other,264,62,202,False,True,0,62
+Penalty,1,0,1,False,True,0,0
+TOTAL,200999,26735,174264,N/A,N/A,25358,25518

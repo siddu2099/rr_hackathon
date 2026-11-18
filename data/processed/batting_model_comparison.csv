@@ -1,0 +1,21 @@
+rank,striker_name,p_balls_faced,p_strike_rate,unbiased_delta_sr,BPRI_Model1_Balanced,BPRI_Model2_ClutchLift,BPRI_Model3_Absolute
+1,Rinku Singh,253,188.93,45.13,86.4,85.57,87.52
+2,Tim David,305,191.8,18.84,86.36,84.29,88.71
+3,Tristan Stubbs,251,176.1,34.1,81.77,81.64,81.42
+4,Naman Dhir,90,203.33,41.21,81.65,83.71,83.43
+5,David Miller,229,183.84,42.07,81.33,81.73,81.69
+6,Jos Buttler,55,214.55,60.33,80.49,85.51,81.45
+7,Namboori Tilak Varma,260,171.54,31.85,80.08,79.76,79.21
+8,Dhruv Jurel,112,185.71,40.08,79.28,82.47,79.69
+9,Ravindra Jadeja,207,161.35,33.52,78.75,79.47,76.55
+10,Mahendra Singh Dhoni,227,166.08,32.18,78.46,78.81,77.53
+11,Ashutosh Sharma,129,189.15,36.4,78.2,80.54,79.19
+12,Matthew Wade,128,177.34,55.27,77.89,79.99,76.19
+13,Suryakumar Yadav,96,194.79,29.39,76.15,79.31,78.48
+14,Dasun Shanaka,159,172.33,41.91,75.73,78.63,74.91
+15,Rashid Khan,318,168.24,32.79,75.35,75.87,74.69
+16,Vipraj Nigam,56,198.21,58.82,74.99,80.32,75.34
+17,Rishabh Pant,68,180.88,40.01,73.44,78.17,73.19
+18,Iftikhar Ahmed,58,182.76,60.85,73.44,78.68,71.66
+19,Jaker Ali Anik,135,166.67,49.69,72.39,75.42,69.89
+20,Jason Holder,172,161.05,30.5,72.08,74.06,69.97

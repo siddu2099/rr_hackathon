@@ -1,0 +1,9 @@
+Category,Threshold,Eligible_Count,Top10
+Batting,>= 40 balls,199,"Tim David, Rinku Singh, Naman Dhir, Tristan Stubbs, David Miller, Jos Buttler, Phil Salt, Dhruv Jurel, Namboori Tilak Varma, Ashutosh Sharma"
+Batting,>= 50 balls,153,"Rinku Singh, Tim David, Tristan Stubbs, Naman Dhir, David Miller, Jos Buttler, Namboori Tilak Varma, Dhruv Jurel, Ravindra Jadeja, Mahendra Singh Dhoni"
+Batting,>= 60 balls,130,"Rinku Singh, Tim David, Tristan Stubbs, David Miller, Naman Dhir, Namboori Tilak Varma, Ravindra Jadeja, Mahendra Singh Dhoni, Dhruv Jurel, Matthew Wade"
+Batting,>= 75 balls,101,"Rinku Singh, Tim David, Tristan Stubbs, David Miller, Namboori Tilak Varma, Naman Dhir, Ravindra Jadeja, Mahendra Singh Dhoni, Dhruv Jurel, Matthew Wade"
+Bowling,>= 48 legal balls,153,"Abrar Ahmed, Mohammad Nabi, Mohammad Nawaz, Sunil Narine, Kuldeep Yadav, Shadab Khan, Sufiyan Muqeem, Gerald Coetzee, Akeal Hosein, Karn Sharma"
+Bowling,>= 60 legal balls,133,"Abrar Ahmed, Mohammad Nabi, Mohammad Nawaz, Sunil Narine, Kuldeep Yadav, Shadab Khan, Sufiyan Muqeem, Gerald Coetzee, Akeal Hosein, Rashid Khan"
+Bowling,>= 72 legal balls,113,"Abrar Ahmed, Mohammad Nawaz, Sunil Narine, Kuldeep Yadav, Shadab Khan, Akeal Hosein, Sufiyan Muqeem, Rashid Khan, Mustafizur Rahman, Jamie Overton"
+Bowling,>= 90 legal balls,99,"Abrar Ahmed, Mohammad Nawaz, Sunil Narine, Kuldeep Yadav, Shadab Khan, Akeal Hosein, Sufiyan Muqeem, Rashid Khan, Mustafizur Rahman, Jamie Overton"
